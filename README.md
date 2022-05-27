@@ -6,7 +6,7 @@ This repository contains code and instructions for simulating beneficial ownersh
 
 ## Run the notebook locally
 
-Clone the repository and navigate to the `bods_simulator` folder. Open the notebook using whichever software you prefer (e.g. [VS code](https://code.visualstudio.com/) and follow the instructions).
+Clone the repository and navigate to the `bods_simulator` folder. Open the notebook using whichever software you prefer (e.g. [VS code](https://code.visualstudio.com/)) and follow the instructions.
 
 ## Run the notebook on Google Colab
 
